@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phonegap/phonegap-plugin-barcodescanner.git"
+    "url": "git+https://github.com/adamluz/MyScan.git"
   },
   "keywords": [
     "ecosystem:cordova",
